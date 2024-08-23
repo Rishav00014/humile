@@ -1,0 +1,22 @@
+//Get Category
+export const GET_CATEGORY = "GET_CATEGORY";
+
+//Open Dialog
+export const OPEN_DIALOG = "OPEN_DIALOG";
+export const CLOSE_DIALOG = "CLOSE_DIALOG";
+
+//Insert Category
+export const INERT_CATEGORY = "INERT_CATEGORY";
+
+//Update Category
+export const UPDATE_CATEGORY = "UPDATE_CATEGORY";
+
+//Delete Category
+export const DELETE_CATEGORY = "DELETE_CATEGORY";
+
+//toast
+export const SET_CREATE_CATEGORY_DONE = "SET_CREATE_CATEGORY_DONE";
+export const UNSET_CREATE_CATEGORY_DONE = "UNSET_CREATE_CATEGORY_DONE";
+
+export const SET_UPDATE_CATEGORY_DONE = "SET_UPDATE_CATEGORY_DONE";
+export const UNSET_UPDATE_CATEGORY_DONE = "UNSET_UPDATE_CATEGORY_DONE";
