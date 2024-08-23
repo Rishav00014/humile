@@ -1,4 +1,4 @@
-export const baseURL = "http://localhost:5000";
+export const baseURL = "http://134.209.149.35:5000";
 export const key = "mysecret#$@12445key";
 
 
